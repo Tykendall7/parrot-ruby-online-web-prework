@@ -8,3 +8,5 @@ end
 parrot
 
 parrot("Pretty bird!")
+
+p parrot 
