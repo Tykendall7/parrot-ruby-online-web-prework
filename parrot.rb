@@ -9,4 +9,4 @@ parrot
 
 parrot("Pretty bird!")
 
-p parrot 
+p parrot("Squawk!")
