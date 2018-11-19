@@ -4,4 +4,4 @@
    puts "#{phrase}"
 end
 
-parrot ("Squa")
+parrot ("Squawk!")
