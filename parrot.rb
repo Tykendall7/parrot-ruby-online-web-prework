@@ -7,7 +7,7 @@ end
 
 parrot
 
-def parrot(phrase= parrot)
+def parrot(phrase= "parrot")
     puts "#{phrase}"
     phrase
   end
